@@ -1,3 +1,3 @@
-function whsiper(string){
-  return string.toLowerCase()
+function shout(string){
+  return string.toUpperCase()
 }
